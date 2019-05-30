@@ -1,0 +1,22 @@
+{
+  "name": "hoje-nao-hoje-sim",
+  "version": "1.0.1",
+  "description": "Hoje Não!, Hoje Não!, Hoje Sim, Hoje Sim!!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bloodf/hoje-nao-hoje-sim.git"
+  },
+  "author": "Heitor Ramon <heitor.ramon@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "tapegandofogo": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bloodf/hoje-nao-hoje-sim.git/issues"
+  },
+  "homepage": "https://github.com/bloodf/hoje-nao-hoje-sim.git#readme"
+}
