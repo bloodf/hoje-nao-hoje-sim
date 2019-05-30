@@ -24,7 +24,7 @@ Or install locally:
 ## Running
 Run command:
 
-    tapegandofogo
+    hojenaohojesim
 
 Or import in NodeJS script:
 

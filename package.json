@@ -13,7 +13,7 @@
   "author": "Heitor Ramon <heitor.ramon@gmail.com>",
   "license": "MIT",
   "bin": {
-    "tapegandofogo": "./index.js"
+    "hojenaohojesim": "./index.js"
   },
   "bugs": {
     "url": "https://github.com/bloodf/hoje-nao-hoje-sim.git/issues"
